@@ -1,1 +1,0 @@
-# SmartGlass-Cybersecurity
