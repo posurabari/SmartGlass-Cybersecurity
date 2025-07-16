@@ -123,3 +123,9 @@ npm run dev
 # Environment variables (.env) should include:
 JWT_SECRET=your_secret_key
 MONGO_URI=your_mongo_db_url
+
+<img width="859" height="373" alt="image" src="https://github.com/user-attachments/assets/5f150468-337b-404f-8280-411efb2c0810" />
+<img width="940" height="425" alt="image" src="https://github.com/user-attachments/assets/d6883177-57db-4094-b96d-e2251ee3c3c0" />
+![WhatsApp Image 2025-07-16 at 19 35 09_3028fa36](https://github.com/user-attachments/assets/0f777467-5735-4326-b7ec-9c14e46c5af4)
+
+
