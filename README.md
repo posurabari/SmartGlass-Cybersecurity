@@ -124,8 +124,11 @@ npm run dev
 JWT_SECRET=your_secret_key
 MONGO_URI=your_mongo_db_url
 
-<img width="859" height="373" alt="image" src="https://github.com/user-attachments/assets/5f150468-337b-404f-8280-411efb2c0810" />
-<img width="940" height="425" alt="image" src="https://github.com/user-attachments/assets/d6883177-57db-4094-b96d-e2251ee3c3c0" />
-![WhatsApp Image 2025-07-16 at 19 35 09_3028fa36](https://github.com/user-attachments/assets/0f777467-5735-4326-b7ec-9c14e46c5af4)
+<img width="1908" height="1075" alt="Screenshot 2025-07-13 110747" src="https://github.com/user-attachments/assets/28eb267b-3b9c-4ab1-8d61-660c2c51e626" />
+<img width="1895" height="993" alt="Screenshot 2025-07-13 113537" src="https://github.com/user-attachments/assets/10a72a90-a736-4a6c-9e26-6ee9c7b3349c" />
+<img width="1893" height="1079" alt="Screenshot 2025-07-15 195553" src="https://github.com/user-attachments/assets/9c97306e-8e95-4a31-bef1-51ddb8cac29e" />
+
+
+<img width="1273" height="805" alt="Screenshot 2025-07-16 193707" src="https://github.com/user-attachments/assets/28b29c4c-95a2-47f3-b369-9d30bc359c11" />
 
 
