@@ -3,10 +3,10 @@
 ## 📌 Project Name: SmartGlass - Secure EdTech Platform  
 *Internship Domain*: Cybersecurity  
 *Company*: Jayadhi Ltd  
-*Intern Name*: [Your Name]  
-*Repository*: [Your GitHub Repo Link]
+*Intern Name*: Posaram Dewasi 
+*Repository*: https://github.com/posurabari/SmartGlass-Cybersecurity 
 
----
+
 
 ## ✅ WEEK 1: Initial Security Risk Assessment
 
@@ -25,7 +25,6 @@
 - How to identify vulnerable routes
 - Basic risk assessment in Express.js & MongoDB projects
 
----
 
 ## ✅ WEEK 2: Secure Coding Guidelines & Static Review
 
@@ -46,7 +45,6 @@
 - Use of environment variables  
 - Secure headers and input checks
 
----
 
 ## ✅ WEEK 3: Code Audits, Monitoring & Compliance
 
@@ -72,7 +70,6 @@
 - Log-based monitoring in Express
 - Privacy compliance: No exposed PII, tokens in URL, etc.
 
----
 
 ## ✅ WEEK 4: Vulnerability Scans & Final Report
 
@@ -95,7 +92,6 @@
 - Store all JWT tokens in HttpOnly cookies
 - Perform regular audits & auto-scans via GitHub Actions
 
----
 
 ## 🛡 Tools Used
 - Visual Studio Code
@@ -104,7 +100,6 @@
 - Node.js, Express.js, MongoDB
 - express-validator, helmet, dotenv
 
----
 
 ## 📚 Final Notes
 As a cybersecurity intern, I learned:
@@ -113,7 +108,6 @@ As a cybersecurity intern, I learned:
 - Secure file uploads, sessions, and tokens
 - Write security reports & explain changes to developers
 
----
 
 ## 🗂 How to Run the Project Securely
 
